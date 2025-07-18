@@ -1,45 +1,26 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Privacy Policy - Subliminal Affirmations Flasher</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 2em;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1 {
-      color: #444;
-    }
-  </style>
-</head>
-<body>
-  <h1>Privacy Policy</h1>
-  <p><strong>Effective Date:</strong> July 18, 2025</p>
+Subliminal Affirmations Flasher
 
-  <p>This extension, <strong>Subliminal Affirmations Flasher</strong>, respects your privacy and complies with the policies of the Chrome Web Store.</p>
+Privacy Policy for Subliminal Affirmations Flasher
+Effective Date: July 18, 2025
 
-  <h2>1. Data Collection</h2>
-  <p>We do not collect, store, or transmit any personal or sensitive user data. All affirmations and settings are stored locally on your device.</p>
+1. Data Collection
+This extension does not collect, store, or transmit any personal or sensitive user data. All settings and affirmations are kept only on your device.
 
-  <h2>2. Local Storage</h2>
-  <p>Settings and user-added affirmations are saved using Chrome’s <code>storage</code> API to provide a consistent experience across sessions. No data leaves your device.</p>
+2. Local Storage
+Your preferences and affirmations are saved locally using Chrome’s storage system. This allows the extension to remember your settings between sessions.
 
-  <h2>3. No Third-Party Services</h2>
-  <p>This extension does not use third-party analytics, advertising, or tracking services.</p>
+3. No Third-Party Services
+The extension does not use any third-party services, tracking tools, analytics, or advertising networks.
 
-  <h2>4. Permissions</h2>
-  <p>The extension requires limited permissions (like scripting and storage) to inject and flash affirmations on active pages. These are used only for the core functionality and nothing else.</p>
+4. Permissions
+The permissions requested (such as storage, scripting, and tabs) are only used to flash affirmations on webpages. No other activity is performed.
 
-  <h2>5. Security</h2>
-  <p>All code runs locally. No external scripts or remote code execution is involved, ensuring full user control and safety.</p>
+5. Security
+All extension code runs locally. No external or remote code is used. This helps protect your privacy and keep the extension secure.
 
-  <h2>6. Contact</h2>
-  <p>If you have any questions or concerns about this policy, contact us at: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+6. Contact
+If you have any questions or concerns about this policy, please email: your.email@example.com
 
-  <p>By using this extension, you agree to this privacy policy.</p>
-</body>
-</html>
+By using this extension, you agree to this privacy policy.
+
+
